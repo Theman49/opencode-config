@@ -197,3 +197,81 @@ I want to try going to Japan (to see what it's like).
 **Casual forms:**
 〜てみる → 〜てみる, 〜てみて (casual request), 〜てみよう ("let's try")
 Colloquial contraction: 〜てみる → 〜てる in fast speech (e.g. やってみる → やってる, but context needed to distinguish from 〜ている)
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜ながら (nagara)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (ます-stem) + ながら</span>
+
+**Meaning:** "While doing (something)" — two actions performed simultaneously by the same subject
+
+**Example 1:**
+音楽を聞きながら、勉強します。
+I study while listening to music.
+
+**Example 2:**
+テレビを見ながら、ご飯を食べた。
+I ate while watching TV.
+
+**Similar Grammar:**
+〜ながら = same subject, simultaneous actions. 〜間に (aida ni) = "during / while" a time period, can have different subjects (e.g. 私が寝ている間に、母が掃除した). 〜ながら is only for the same subject doing two things at once.
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜すぎる (sugiru)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (ます-stem) + すぎる / いadj (remove い) + すぎる / なadj + すぎる</span>
+
+**Meaning:** "Too much" — excessive degree or frequency, often with negative nuance
+
+**Example 1:**
+昨日、食べすぎて、お腹が痛い。
+I ate too much yesterday and my stomach hurts.
+
+**Example 2:**
+この問題は難しすぎて、誰も解けなかった。
+This problem was too difficult, nobody could solve it.
+
+**Similar Grammar:**
+〜すぎる = excessive (negative nuance). とても + adj = "very" (neutral). あまりにも = "so much that" (more literary/emphatic).
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜ておく (te-oku) / 〜とく (casual)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (て-form) + おく</span>
+
+**Meaning:** "Do something in advance" / "Do something for later preparation"
+
+**Example 1:**
+旅行の前に、ホテルを予約しておきます。
+I'll reserve a hotel in advance before the trip.
+
+**Example 2 (casual):**
+明日までにこの書類を読んでおいてください。
+Please read this document in advance by tomorrow.
+
+**Casual contraction:**
+〜ておく → 〜とく (e.g. 予約しておく → 予約しとく)
+〜でおく → 〜どく (e.g. 調べておく → 調べとく)
+読んでおく → 読んどく
+The て-form ending determines the contracted sound.
+
+**Similar Grammar:**
+〜ておく = preparation for future. 〜てある = resultative state (result-focused). 〜てしまう = completion/regret (no preparation nuance).
