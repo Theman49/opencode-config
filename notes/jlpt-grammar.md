@@ -303,3 +303,27 @@ Uses が for the object (not を), because the focus is on the existing state, n
 **Compare with 〜ておく:**
 窓を開けておく = "I'll open the window (in advance)"
 窓が開けてある = "The window has been opened (I can see the result)"
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜たばかり (ta bakari)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (た-form) + ばかり</span>
+
+**Meaning:** "Just did (something)" — the action was completed recently
+
+**Example 1:**
+さっきご飯を食べたばかりです。
+I just ate a few minutes ago.
+
+**Example 2:**
+日本に来たばかりで、まだ日本語が上手じゃありません。
+I just came to Japan, so I'm not good at Japanese yet.
+
+**Similar Grammar:**
+〜たばかり = just did (subjective "recent"). 〜たところ = just did (immediate, moments ago). 〜たばかりの + noun = "a newly ~ noun" (e.g. 買ったばかりの本 = a book I just bought).
