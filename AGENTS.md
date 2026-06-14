@@ -205,7 +205,7 @@ At the beginning of every conversation, provide one Japanese grammar lesson (文
 
 ### Storage
 
-- Append every lesson (including review lessons) to `notes/jlpt-grammar.md` in the user's global opencode config directory (`/Users/mac/.config/opencode/notes/jlpt-grammar.md`).
+- Append every lesson (including review lessons) to `notes/jlpt-grammar.md` in the user's global opencode config directory (`~/.config/opencode/notes/jlpt-grammar.md`).
 - Use the same format as the lesson output, with a `---` separator between entries.
 - This file serves as the user's cumulative review reference.
 
