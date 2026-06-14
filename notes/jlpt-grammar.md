@@ -49,3 +49,101 @@ I accidentally forgot my password.
 
 **Similar Grammar:**
 〜てしまう focuses on completion or unintended result. 〜終わる (おわる) only means "finish doing" without the nuance of regret or accident.
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜なければならない (nakereba naranai) / 〜なくちゃ・〜なきゃ (casual)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (ない-form - ない) + なければならない</span>
+
+**Meaning:** "Must do" / "Have to do" (obligation)
+
+**Example 1:**
+毎日、薬を飲まなければなりません。
+I have to take medicine every day.
+
+**Example 2 (casual):**
+明日は早く起きなきゃ。
+I gotta wake up early tomorrow.
+
+**Similar Grammar:**
+〜なければならない = strong obligation (must). 〜たほうがいい = weaker advice (better to). 〜てもいい = permission (may).
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜てもいい (te-mo ii)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (て-form) + もいい</span>
+
+**Meaning:** "May do" / "Allowed to do" (permission)
+
+**Example 1:**
+ここで写真を撮ってもいいですか。
+May I take a photo here?
+
+**Example 2:**
+もう帰ってもいいよ。
+You can go home now.
+
+**Similar Grammar:**
+〜てもいい = permission (may). 〜てはいけない / 〜ちゃいけない = prohibition (must not). 〜なければならない = obligation (must).
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜ほうがいい (hou ga ii)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (た-form) + ほうがいい / Verb (ない) + ないほうがいい</span>
+
+**Meaning:** "Had better do" / "Should do" (recommendation / advice)
+
+**Example 1:**
+もっと野菜を食べたほうがいいよ。
+You should eat more vegetables.
+
+**Example 2:**
+タバコを吸わないほうがいいです。
+You'd better not smoke.
+
+**Similar Grammar:**
+〜たほうがいい = advice (should). 〜なければならない = obligation (must). 〜てもいい = permission (may). 〜たほうがいい is softer than 〜なければならない.
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜そうだ (sou da) — 2 types</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Type 1 (hearsay): Plain form + そうだ<br>Type 2 (appearance): Verb stem / いadj (remove い) / なadj + そうだ</span>
+
+**Meaning:** Type 1: "I heard that..." Type 2: "Looks like / Seems like..."
+
+**Example 1 (hearsay):**
+明日は雨が降るそうだ。
+I heard it's going to rain tomorrow.
+
+**Example 2 (appearance):**
+このケーキは美味しそうだ。
+This cake looks delicious.
+
+**Key Difference:**
+美味しいそうだ = "I heard it's tasty" (plain form + そうだ = hearsay)
+美味しそうだ = "It looks tasty" (stem + そうだ = appearance)
+Same そうだ but different formation = classic JLPT trap.
