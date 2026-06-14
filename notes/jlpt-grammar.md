@@ -147,3 +147,53 @@ This cake looks delicious.
 美味しいそうだ = "I heard it's tasty" (plain form + そうだ = hearsay)
 美味しそうだ = "It looks tasty" (stem + そうだ = appearance)
 Same そうだ but different formation = classic JLPT trap.
+
+---
+
+## Review Session — 2026-06-14
+
+**Point 1: 〜てしまう**
+
+Gap-fill: うっかり窓を＿＿＿＿＿＿＿＿＿。（割る）
+
+Answer: 割ってしまった
+
+Key: を marks an object → use transitive 割る. If using intransitive 割れる, particle would be が.
+
+**Point 2: 〜そうだ (2 types)**
+
+Gap-fill:
+A: この料理、＿＿＿＿＿＿＿＿ね。（美味しい + appearance）
+B: うん、＿＿＿＿＿＿＿＿よ。（美味しい + hearsay）
+
+Answer:
+A: 美味しそうだ (appearance — remove い)
+B: 美味しいそうだ (hearsay — plain form)
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜てみる (te-miru)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (て-form) + みる</span>
+
+**Meaning:** "Try doing" / "Do something to see what happens"
+
+**Example 1:**
+このアプリを使ってみてください。
+Please try using this app.
+
+**Example 2:**
+一度日本に行ってみたいです。
+I want to try going to Japan (to see what it's like).
+
+**Similar Grammar:**
+〜てみる = try doing (light attempt). 〜ようとする = attempt to (stronger volition, may fail). 〜てしまう = completion (no element of trying).
+
+**Casual forms:**
+〜てみる → 〜てみる, 〜てみて (casual request), 〜てみよう ("let's try")
+Colloquial contraction: 〜てみる → 〜てる in fast speech (e.g. やってみる → やってる, but context needed to distinguish from 〜ている)
