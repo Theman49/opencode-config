@@ -327,3 +327,27 @@ I just came to Japan, so I'm not good at Japanese yet.
 
 **Similar Grammar:**
 〜たばかり = just did (subjective "recent"). 〜たところ = just did (immediate, moments ago). 〜たばかりの + noun = "a newly ~ noun" (e.g. 買ったばかりの本 = a book I just bought).
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜やすい / 〜にくい (yasui / nikui)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (ます-stem) + やすい / にくい</span>
+
+**Meaning:** "Easy to ~" / "Hard to ~" — describes inherent ease or difficulty of an action
+
+**Example 1:**
+このペンは書きやすくて、とても気に入っています。
+This pen is easy to write with, and I really like it.
+
+**Example 2:**
+一人ではこの問題を解決しにくい。
+It's hard to solve this problem alone.
+
+**Similar Grammar:**
+〜やすい = easy to (physical/technical). 〜にくい = hard to (physical/skill). 〜がたい = hard to (emotional/mental, e.g. 信じがたい = hard to believe). Conjugate as い-adjectives.
