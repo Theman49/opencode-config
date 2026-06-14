@@ -275,3 +275,31 @@ The て-form ending determines the contracted sound.
 
 **Similar Grammar:**
 〜ておく = preparation for future. 〜てある = resultative state (result-focused). 〜てしまう = completion/regret (no preparation nuance).
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜てある (te-aru)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (て-form) + ある</span>
+
+**Meaning:** "Has been done" / "Is in the state of having been done" — resultative state, the doer is irrelevant
+
+**Example 1:**
+窓が開けてある。
+The window has been opened (and is still open).
+
+**Example 2:**
+壁にポスターが貼ってある。
+A poster has been put up on the wall.
+
+**Particle note:**
+Uses が for the object (not を), because the focus is on the existing state, not the action.
+
+**Compare with 〜ておく:**
+窓を開けておく = "I'll open the window (in advance)"
+窓が開けてある = "The window has been opened (I can see the result)"
