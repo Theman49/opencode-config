@@ -351,3 +351,27 @@ It's hard to solve this problem alone.
 
 **Similar Grammar:**
 〜やすい = easy to (physical/technical). 〜にくい = hard to (physical/skill). 〜がたい = hard to (emotional/mental, e.g. 信じがたい = hard to believe). Conjugate as い-adjectives.
+
+---
+
+**JLPT Level:**
+<span style="color: #22c55e;">N3</span>
+
+**Grammar Point:**
+<span style="color: #38bdf8;">〜つもりだ (tsumori da)</span>
+
+**Structure:**
+<span style="color: #e879f9; font-style: italic;">Verb (dictionary form) + つもりだ / Verb (ない-form) + ないつもりだ</span>
+
+**Meaning:** "Intend to" / "Plan to" — expressing strong intention or plan
+
+**Example 1:**
+来年、日本で働くつもりです。
+I intend to work in Japan next year.
+
+**Example 2:**
+今日はどこにも行かないつもりだ。
+I don't plan to go anywhere today.
+
+**Similar Grammar:**
+〜つもりだ = intention (strong, already decided). 〜ようと思う = thinking of doing (weaker, still considering). 〜予定だ = scheduled (external plan, not personal intention).
