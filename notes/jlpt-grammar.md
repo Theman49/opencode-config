@@ -375,3 +375,79 @@ I don't plan to go anywhere today.
 
 **Similar Grammar:**
 〜つもりだ = intention (strong, already decided). 〜ようと思う = thinking of doing (weaker, still considering). 〜予定だ = scheduled (external plan, not personal intention).
+
+---
+
+**JLPT Level:**
+N3
+
+**Grammar Point:**
+〜ことになる (koto ni naru)
+
+**Structure:**
+Verb (dictionary form / ない-form) + ことになる
+
+**Meaning:**
+"It has been decided that..." / "It turns out that..." — describes a decision or outcome that results from external circumstances, not one's own intention.
+
+**Example 1:**
+返金は7月1日になることになりました。
+It has been decided that the refund will be on July 1st.
+
+**Example 2:**
+来週から新しいプロジェクトを担当することになりました。
+It has been decided that I will be in charge of the new project from next week.
+
+**Similar Grammar:**
+〜ことにする = "I decide to..." (personal/volitional choice). 〜ことになっている = "It is scheduled/ruled that..." (ongoing rule or arrangement, not a single decision).
+
+---
+
+## Review Session — 2026-06-18
+
+**Point 1: 〜てある**
+
+Gap-fill: 壁にカレンダーが＿＿＿＿＿＿＿＿。（貼る）
+
+Answer: 貼ってある
+Key: Use が (not を) because 〜てある focuses on the existing state, not the action. 〜ておく would use を and imply advance preparation.
+
+**Point 2: 〜つもりだ**
+
+Gap-fill (find the contradiction):
+来月、引っ越す＿＿＿＿＿＿＿＿。まだ決めていないけど。
+
+Answer: This is a trick — つもりだ is wrong here because it means a firm decision. The clue "まだ決めていないけど" (I haven't decided yet) conflicts.
+Correct: 引っ越そうと思っている (thinking of moving) or 引っ越すかもしれない (might move).
+
+---
+
+**JLPT Level:**
+N3
+
+**Grammar Point:**
+〜はずだ (hazu da)
+
+**Structure:**
+Verb (plain form) + はずだ
+いadj + はずだ
+なadj + なはずだ
+Noun + のはずだ
+
+**Meaning:**
+"Should be" / "Supposed to" — expresses strong expectation based on logic, prior knowledge, or schedule. Not used for moral obligation (use べき for that).
+
+**Example 1:**
+彼はもう着いているはずです。
+He should have arrived by now (based on the schedule).
+
+**Example 2:**
+そんなはずじゃなかった。
+It wasn't supposed to be like this.
+
+**Example 3 (negative):**
+日本人のはずがない。
+There's no way he's Japanese.
+
+**Similar Grammar:**
+〜はずだ = strong expectation based on evidence/reason (should). 〜べきだ = moral obligation (should). 〜かもしれない = possibility (might). 〜に違いない = certainty based on strong conviction (must be).
